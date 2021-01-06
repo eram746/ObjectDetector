@@ -1,5 +1,5 @@
 import cv2
-#doesn't seem like need to import matplotlib
+
 thres = 0.45 
 #OBJECT DETECTION GO BRRRRRRRRRR!
 
